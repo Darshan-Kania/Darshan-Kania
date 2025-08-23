@@ -14,16 +14,16 @@
 ## 👨‍💻 About Me
 - 🎓 3rd Year B.Tech CSE student @ **DDU**  
 - 🚀 Currently working on **MailFlare** – AI-powered inbox with Gmail integration  
-- 🌱 Exploring **Cloud (AWS, GCP, Azure)**
+- 🌱 Exploring **Cloud (AWS, GCP)**
 - 🎯 Goal: Build products that **save people’s time**   
 - ⚡ Fun fact: I love automating boring stuff 😎
 
 ---
 
 ## 📚 What I’m Currently Learning
-- ☁️ **Cloud Services (AWS, GCP, Azure)**
+- ☁️ **Cloud Services (AWS, GCP)**
 - 💻 **Full Stack Development (MERN + Java/Spring)**
-- 🤖 **AI & Automation Tools (n8n, LangChain, RPA)**
+- 🤖 **AI & Automation Tools (n8n,Lovable,Cursor)**
 - 🗄️ **Database Design & Optimization**
 
 ---
