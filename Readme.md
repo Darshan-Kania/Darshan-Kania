@@ -63,7 +63,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-Kania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF" height="160"/>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darshan-Kania&label=Profile%20Views&color=00C3FF&style=flat" alt="Darshan-Kania" />
+</p>
 ---
 
 ## 🌍 Connect With Me  
